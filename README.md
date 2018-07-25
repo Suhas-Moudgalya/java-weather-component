@@ -1,4 +1,4 @@
-# java-weather-component
+# Java-Weather-Component
 Gets weather data from weather API and stores in MySQL Database.
 
 # Steps to be followed
