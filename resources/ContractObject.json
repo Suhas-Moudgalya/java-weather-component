@@ -1,0 +1,633 @@
+{
+	"root": {
+		"Contractitem": [{
+			"ContractId": "10024",
+			"mainContractor": {
+				"id": "54321",
+				"name": "ABC Community Services SEQ Limited"
+			},
+			"tenderCode": "tender_2393",
+			"title": "Integration Test 150218",
+			"status": "100",
+			"buyerCompany": {
+				"id": "4932",
+				"name": "BravoSolution"
+			},
+			"referenceCode": "con_217",
+			"tenderReferenceCode": "tender_280",
+			"divisionId": "69380",
+			"divisionName": "Division",
+			"archiveStatus": "0",
+			"renewalAlertFlag": "0",
+			"buyerUserId": "6996",
+			"buyerUserName": "Procurement Integration",
+			"creatorUser": {
+				"id": "6996",
+				"name": "Procurement Integration"
+			},
+			"creationDate": "2018-02-15T00:55:03.000+00:00",
+			"activeUser": {
+				"id": "6996",
+				"name": "Procurement Integration"
+			},
+			"activeDate": "2018-02-15T06:50:17.000+00:00",
+			"FundingSchedules": {
+				"FundingSchedule": [{
+					"FundingScheduleName": "XYZ",
+					"FundingScheduleid": "1234",
+					"ServiceAgreementprefix": "CCS-",
+					"ServiceOutletnumber": "123456",
+					"ServiceOutletname": "ABC Family Services  Brisbane Child Protection Support",
+					"Departmentalregion": "Brisbane",
+					"ScheduleStartDate": "2018-02-14+00:00",
+					"ScheduleEndDate": "2019-02-14+00:00",
+					"ScheduleExecutionDate": "2018-02-14+00:00",
+					"Totalfunding": "3900000",
+					"Termoffundingschedule": "3",
+					"Salary-relateditems": "660000",
+					"Otherexpenseitems": "340000",
+					"Totalfundingperannum": "1000000",
+					"OneOfffundingforPOAssets": "0",
+					"OtherOneOfffunding": "900000",
+					"TotalOneOfffunding": "900000",
+					"ServiceUserList": "U2310,U3219",
+					"ServiceTypeList": "T319,T330,T335",
+					"ServiceParticulars": "some specific textual TCs",
+					"GeographicCatchmentAreaList": "Brisbane Region including Alderly CSSC, Mt. Gravatt CSSC",
+					"OperatingHours": "9am to 5pm Monday to Friday",
+					"AfterhoursService": "On-call services 24 hours a day, 365 days a year will also be provided",
+					"PeriodicReportingData": {
+						"PeriodicReport": {
+							"PeriodicReportingSequence": "1",
+							"PeriodStartDate": "2017-07-01",
+							"PeriodEndDate": "2017-09-30",
+							"ReportNGOsubmittedDate": "2017-10-20",
+							"ReportNGOapprovedDate": "2017-10-29",
+							"UnspentFund": "???",
+							"FundingItems": {
+								"FundingItem": [{
+										"ServiceUserCode": "U2310",
+										"ServiceTypecode": "T319",
+										"Output": "A01.2.08",
+										"Quantityperannum": "3200",
+										"DlvdQty": "?",
+										"DeliveredQuantityRemark": "?",
+										"Unitofmeasure": "hours",
+										"NumberofServiceUsers": "32",
+										"DeliveredNumberofServiceUsers": "?",
+										"DlvdServUsrsRem": "?",
+										"Fundingamountperannum": "32000",
+										"ApplicableMeasureList": {
+											"ApplicableMeasure": [{
+													"MeasureType": "Throughputs",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS132",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS133",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS145",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS201",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "GM07",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												},
+												{
+													"MeasureType": "Demographic",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS35",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS39",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS207",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS137",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												},
+												{
+													"MeasureType": "Outcome",
+													"MeasureList": {
+														"Measure": {
+															"MeasureCode": "OM2.1.08",
+															"DlvdValue": "?",
+															"Remark": "??"
+														}
+													}
+												},
+												{
+													"MeasureType": "Other",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS204",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "GM16",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												}
+											]
+										}
+									},
+									{
+										"ServiceUserCode": "U2310",
+										"ServiceTypecode": "T330",
+										"Output": "A07.1.04",
+										"Quantityperannum": "6000",
+										"DlvdQty": "?",
+										"DeliveredQuantityRemark": "?",
+										"Unitofmeasure": "hours",
+										"NumberofServiceUsers": "40",
+										"DeliveredNumberofServiceUsers": "?",
+										"DlvdServUsrsRem": "?",
+										"Fundingamountperannum": "32000",
+										"ApplicableMeasureList": {
+											"ApplicableMeasure": [{
+													"MeasureType": "Throughputs",
+													"MeasureList": {
+														"Measure": {
+															"MeasureCode": "GM07",
+															"DlvdValue": "?",
+															"Remark": "??"
+														}
+													}
+												},
+												{
+													"MeasureType": "Demographic",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS35",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS39",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												},
+												{
+													"MeasureType": "Outcome",
+													"MeasureList": {
+														"Measure": {
+															"MeasureCode": "OM2.1.08",
+															"DlvdValue": "?",
+															"Remark": "??"
+														}
+													}
+												},
+												{
+													"MeasureType": "Other",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS70",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "GM16",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												}
+											]
+										}
+									},
+									{
+										"ServiceUserCode": "U2310",
+										"ServiceTypecode": "T335",
+										"Output": "A01.2.08",
+										"Quantityperannum": "1200",
+										"DlvdQty": "?",
+										"DeliveredQuantityRemark": "?",
+										"Unitofmeasure": "hours",
+										"NumberofServiceUsers": "12",
+										"DeliveredNumberofServiceUsers": "?",
+										"DlvdServUsrsRem": "?",
+										"Fundingamountperannum": "120000",
+										"ApplicableMeasureList": {
+											"ApplicableMeasure": [{
+													"MeasureType": "Throughputs",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS132",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS133",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS145",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS201",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "GM07",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												},
+												{
+													"MeasureType": "Demographic",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS35",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS39",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS207",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "IS137",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												},
+												{
+													"MeasureType": "Outcome",
+													"MeasureList": {
+														"Measure": {
+															"MeasureCode": "OM2.1.08",
+															"DlvdValue": "?",
+															"Remark": "??"
+														}
+													}
+												},
+												{
+													"MeasureType": "Other",
+													"MeasureList": {
+														"Measure": [{
+																"MeasureCode": "IS204",
+																"DlvdValue": "?",
+																"Remark": "??"
+															},
+															{
+																"MeasureCode": "GM16",
+																"DlvdValue": "?",
+																"Remark": "??"
+															}
+														]
+													}
+												}
+											]
+										}
+									}
+								]
+							}
+						}
+					},
+					"PaymentSchedules": {
+						"TotalFundingperAnnum": "1000000",
+						"TotalOneOfffunding": "900000",
+						"PeriodicPaymentFrequency": "Quarter",
+						"PaymentSchedule": [{
+								"PaymentScheduleSequence": "1",
+								"PeriodStartdate": "2018-02-14+00:00",
+								"PeriodEnddate": "2018-03-31+00:00",
+								"PaymentDate": "2018-02-14+00:00",
+								"TotalPeriodAmount": "To Be Calculated",
+								"TotalPeriodPayment": "To Be Calculated",
+								"PaymentRecommendation": "Full",
+								"FundingItemPaymentDetails": {
+									"FundingItemPayment": [{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T319",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T330",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T335",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										}
+									]
+								},
+								"PaymentCostAllocations": {
+									"PaymentCostAllocation": [{
+											"CostObjectType": "GLCode",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "530401",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "530402",
+													"AllocationValue": "40"
+												}
+											]
+										},
+										{
+											"CostObjectType": "CostCentre",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "1827305",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "1827306",
+													"AllocationValue": "30"
+												},
+												{
+													"CostObjectValue": "1835170",
+													"AllocationValue": "10"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"PaymentScheduleSequence": "2",
+								"PeriodStartdate": "2018-02-14+00:00",
+								"PeriodEnddate": "2018-03-31+00:00",
+								"PaymentDate": "Future Payment Date",
+								"TotalPeriodAmount": "To Be Calculated",
+								"TotalPeriodPayment": "To Be Calculated",
+								"FundingItemPaymentDetails": {
+									"FundingItemPayment": [{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T319",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T330",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T335",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										}
+									]
+								},
+								"PaymentCostAllocations": {
+									"PaymentCostAllocation": [{
+											"CostObjectType": "GLCode",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "530401",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "530402",
+													"AllocationValue": "40"
+												}
+											]
+										},
+										{
+											"CostObjectType": "CostCentre",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "1827305",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "1827306",
+													"AllocationValue": "30"
+												},
+												{
+													"CostObjectValue": "1835170",
+													"AllocationValue": "10"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"PaymentScheduleSequence": "3",
+								"PeriodStartdate": "2018-02-14+00:00",
+								"PeriodEnddate": "2018-03-31+00:00",
+								"PaymentDate": "Future Payment Date",
+								"TotalPeriodAmount": "To Be Calculated",
+								"TotalPeriodPayment": "To Be Calculated",
+								"FundingItemPaymentDetails": {
+									"FundingItemPayment": [{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T319",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T330",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T335",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										}
+									]
+								},
+								"PaymentCostAllocations": {
+									"PaymentCostAllocation": [{
+											"CostObjectType": "GLCode",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "530401",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "530402",
+													"AllocationValue": "40"
+												}
+											]
+										},
+										{
+											"CostObjectType": "CostCentre",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "1827305",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "1827306",
+													"AllocationValue": "30"
+												},
+												{
+													"CostObjectValue": "1835170",
+													"AllocationValue": "10"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"PaymentScheduleSequence": "4",
+								"PeriodStartdate": "2018-02-14+00:00",
+								"PeriodEnddate": "2018-03-31+00:00",
+								"PaymentDate": "Future Payment Date",
+								"TotalPeriodAmount": "To Be Calculated",
+								"TotalPeriodPayment": "To Be Calculated",
+								"FundingItemPaymentDetails": {
+									"FundingItemPayment": [{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T319",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T330",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										},
+										{
+											"ServiceUserCode": "U2310",
+											"ServiceTypecode": "T335",
+											"UOM": "copy from contract prices.rows.item.UOM",
+											"Qty": "copy from contract prices.rows.item.quantity",
+											"UnitPrice": "copy from contract prices.rows.item.unitPrice",
+											"Fundingamountperannum": "multiply qty and unitprice",
+											"PeriodicFundingAmount": "To Be Calculated"
+										}
+									]
+								},
+								"PaymentCostAllocations": {
+									"PaymentCostAllocation": [{
+											"CostObjectType": "GLCode",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "530401",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "530402",
+													"AllocationValue": "40"
+												}
+											]
+										},
+										{
+											"CostObjectType": "CostCentre",
+											"AllocationType": "Percentage",
+											"PaymentAllocation": [{
+													"CostObjectValue": "1827305",
+													"AllocationValue": "60"
+												},
+												{
+													"CostObjectValue": "1827306",
+													"AllocationValue": "30"
+												},
+												{
+													"CostObjectValue": "1835170",
+													"AllocationValue": "10"
+												}
+											]
+										}
+									]
+								}
+							}
+						]
+					}
+				}]
+			}
+		}]
+	}
+}
